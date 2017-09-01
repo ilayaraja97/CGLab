@@ -1,4 +1,4 @@
-#include<stdio.h>
+t#include<stdio.h>
 #include<GL/glut.h>
 #include <math.h>
 
